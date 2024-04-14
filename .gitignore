@@ -1,0 +1,4 @@
+venv/
+logs/
+logs/*
+.DS_STORE
